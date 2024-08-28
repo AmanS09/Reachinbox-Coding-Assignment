@@ -10,7 +10,7 @@ This repository contains the code for Reachinbox frontend  App using React with 
 
 ## Deployment
 
-The application is deployed on netlify and can be accessed [here](https://reachinbox-coding-assignment.vercel.app/).
+The application is deployed on vercel and can be accessed [here](https://reachinbox-coding-assignment.vercel.app/).
 
 ## Demo Video :- 
 
