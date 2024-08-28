@@ -75,10 +75,4 @@ The application is deployed on netlify and can be accessed [here](https://reachi
 
    <h3>Delete Email</h3>
    <pre><code>DELETE {{baseurl}}/onebox/messages/:thread_id </code></pre>
-
- 
-   # Credits <br/>
-   This project was developed by ```Jahir Pendhari``` as a part of ```Masai School``` training program.
-
-   <p>Feel free to explore and integrate these endpoints into your application.</p>
   
