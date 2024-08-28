@@ -13,36 +13,43 @@ This repository contains the code for Reachinbox frontend  App using React with 
 The application is deployed on netlify and can be accessed [here](https://reachinbox-frontend.netlify.app/).
 
 ## Demo Video :- 
-https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b37-9dfa-21b4538e3831
+----
 
 ## Login Page
 
-![Screenshot (344)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/fb0298f0-1fd2-4464-b5e2-8bde53838a7b)
+![Screenshot (73)](https://github.com/user-attachments/assets/e3fa8385-3f8b-40a2-9511-1fd08a4aca9d)
+
 
 ## Landing Page
 
-![Screenshot (346)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/09ff52fd-5880-454f-ae7d-7520b31a6ef7)
+![Screenshot (74)](https://github.com/user-attachments/assets/45adeab6-605c-4738-8328-8c4a33438b73)
+
 
 ## Deshboard with Dark Mode
- 
-![Screenshot 2024-04-02 213745](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/b507dfc6-bbd4-45ff-b115-296f5e7099d9)
+
+ ![Screenshot (75)](https://github.com/user-attachments/assets/84a8623c-df10-45ef-9fef-8e21098ed03a)
+
 
 ## Dashboard with Light Mode
 
-![Screenshot (355)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/8c2f6406-f4a1-408b-a556-255f80a18993)
+![Screenshot (76)](https://github.com/user-attachments/assets/f4b37c38-52eb-4564-80f3-2314a3398cff)
+
 
 ## Delete Email 
 
-![Screenshot (356)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/82fb7ea2-2a85-4365-a796-d0d8f89b9e20)
+![Screenshot (77)](https://github.com/user-attachments/assets/01764672-2aed-46f5-992c-b67b32ac2959)
 
+
+## Reply Email
+
+![Screenshot (78)](https://github.com/user-attachments/assets/e7e7b6c7-1e18-4ee6-9c83-30660c495a34)
 
 
  # How to Run <br/>
  
    <h2>Installation</h2>
    
-   Clone the repository:   ``` git clone https://github.com/JahirPendhari09/ReachInBox-Frontend.git  ``` <br/>
-   Navigate to the project directory:   ``` cd reachinbox ``` <br/>
+   Clone the repository:   ``` git clone https://github.com/AmanS09/Reachinbox-Coding-Assignment.git  ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
    Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
